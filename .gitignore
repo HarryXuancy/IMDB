@@ -1,0 +1,4 @@
+
+*.npy
+aclImdb/
+glove.6B/
